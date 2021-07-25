@@ -1,6 +1,7 @@
 # clima
 
-A new Flutter application.
+A new Flutter application, which can provide us with the weather information based on our location input.
+Used Opemweathermap API to fetch the information. 
 
 ## Getting Started
 
